@@ -1,4 +1,4 @@
-### Olá, sou Matheus Ramazza!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+sou+Matheus+Ramazza!)](https://git.io/typing-svg)
 
 💻 Desenvolvedor Front-End<br>
 👨‍🎓 Engenheiro da Computação, formado na Universidade de Araraquara<br>
@@ -6,6 +6,7 @@
 💭 Atualmente estudando React<br>
 ✔️ De uma checada no meu [site](ramazza.com)
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 ## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Matheus Ramazza) 
