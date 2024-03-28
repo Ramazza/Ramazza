@@ -6,11 +6,6 @@
 💭 Atualmente estudando React<br>
 ✔️ De uma checada no meu [site](ramazza.com)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-
-## 🌐 LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Matheus Ramazza) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ramazza&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramazza&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
